@@ -13,3 +13,4 @@ https://www.kaggle.com/tolgadincer/labeled-chest-xray-images
 3.	Chest X-ray images of Covid infected patients are collected from the Github link (https://github.com/ieee8023/covid-chestxray-dataset)
 
 
+Please note that Github has truncated the dataset to 1000 images for Normal and Bacterial infected chest X-ray images. The interested reader can obtain the full dataset used in our work from the given source URLs.
