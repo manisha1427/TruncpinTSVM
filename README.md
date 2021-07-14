@@ -27,12 +27,15 @@ Pima Indians (768×8): Based on the women living in Arizona and the task is to c
 CMC (1473×9): The task is to predict the contraceptive method choice of a woman based on her socio-economic and demographic characteristics. For feature details and the complete data set, readers are referred to the URL:  https://archive.ics.uci.edu/ml/datasets/Contraceptive+Method+Choice
 
 Spambase (4601× 57): To classify an email as spam or non-spam. For feature details and the complete data set, readers are referred to the URL: https://archive.ics.uci.edu/ml/datasets/Spambase
+
 Banana (5300×3): An artificial data set where instances belongs to several clusters with a banana shape. There are two attributes At1 and At2 corresponding to the x and y axis, respectively. The class label (-1 and 1) represents one of the two banana shapes in the dataset. For feature details and the complete data set, readers are referred to the URL: https://www.openml.org/d/1460
 
 Page Blocks (5473×10): The problem consists of classifying all the blocks of the page layout of a document that has been detected by a segmentation process. For feature details and the complete data set, readers are referred to the URL https://archive.ics.uci.edu/ml/datasets/Page+Blocks+Classification
 
 Musk Version 2(6598×168): The goal is to learn to predict whether new molecules will be musks or non-musks. For feature details and the complete data set, readers are referred to the URL https://archive.ics.uci.edu/ml/datasets/Musk+(Version+2)
+
 Cats vs Dogs (25000×2): To classify the new image as cat image or dog image. For feature details and the complete data set, readers are referred to the URL: https://www.kaggle.com/c/dogs-vs-cats/data
+
 CIFAR-10 (60000): CIFAR-10 data set has 60,000 color images of size 32×32 pixels. These
 images belong to ten classes. To use this data set, we extract features from the image data set. For feature details and the complete data set, readers are referred to the URL : https://www.cs.toronto.edu/~kriz/cifar.html
 
