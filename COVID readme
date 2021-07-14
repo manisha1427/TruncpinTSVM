@@ -1,0 +1,15 @@
+                                                                        About COVID-19 Data Set
+
+In the article, pin¯-TSVM: A Robust Transductive Support Vector Machine and its Application to the Detection of COVID-19 Infected Patients, we have used images of normal chest X-rays, chest X-ray images of patients having bacterial infection and the chest X-ray images of COVID-19 infected patients. 
+In Covid Data, three files are given based on chest X-ray images of normal human being (NORMAL), chest X-ray images of covid infected patients (COVID) and with bacterial infection (BACTERIAL INFECTION).
+There are 2932 normal chest X-ray images, 5519 bacterial infected images and 932 chest X-ray images of COVID patients. 
+
+1.	Normal chest X-ray images are collected from Kaggle (https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+https://www.kaggle.com/tolgadincer/labeled-chest-xray-images
+), uploaded by Paul Mooney and Tolga Dincer respectively.
+
+2.	Bacterial Chest X-ray images are also collected from Kaggle https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+3.	Chest X-ray images of Covid infected patients are collected from the Github link (https://github.com/ieee8023/covid-chestxray-dataset)
+
+
